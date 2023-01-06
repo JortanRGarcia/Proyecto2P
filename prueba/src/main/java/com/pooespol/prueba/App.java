@@ -7,7 +7,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-// prueba cambio
+// prueba cambio 2
 /**
  * JavaFX App
  */
